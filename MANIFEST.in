@@ -1,0 +1,3 @@
+include TMIDIX/README.md
+recursive-include TMIDIX/ *
+recursive-include TMIDIX/artwork *
