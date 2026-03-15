@@ -6,3 +6,4 @@ Welcome to TMIDIX Documentation
    :caption: API Reference:
 
    api/modules
+   api/functions
